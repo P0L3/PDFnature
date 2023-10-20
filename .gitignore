@@ -11,6 +11,7 @@
 !*.yml
 !*.md
 !Dockerfile
+!LICENCE
 
 
 # don't ignore gitignore
