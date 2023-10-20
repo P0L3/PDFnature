@@ -3,19 +3,19 @@
 
 ## Installation
 **1) Clone the repository to your local machine:** 
-git clone git@github.com:P0L3/PDFnature.git
+`git clone git@github.com:P0L3/PDFnature.git`
 
 **2) Install the required Python packages:**
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 **3) Open the terminal and navigate to the project directory:**
-cd path/to/PDFnature
+`cd path/to/PDFnature`
 
 **4) Run the scraper.py file:**
-python scraper.py <number of pages> <category>
+`python scraper.py <number of pages> <category>`
 
 > Note: categories can be seen on Natures index page: https://www.nature.com/siteindex`
-> e.g.: "BDJ In Practice" has link https://www.nature.com/**bdjinpractice**/
+> e.g.: "BDJ In Practice" has link https://www.nature.com/bdjinpractice/ -> bdjinpractice
 
 
 ## Contributing
@@ -28,4 +28,4 @@ This project is licensed under the GNU general public license v3.0 - see the LIC
 Please note that web scraping can raise legal and ethical issues, such as copyright infringement and website terms of use violations. It is the user's responsibility to ensure that their use of this software is in compliance with applicable laws and ethical standards. The authors of this software are not responsible for any misuse or legal consequences arising from the use of this software.
 
 ## Acknowledgements 
-This repository was made based on the https://github.com/kgotsosm/nature-web-scraper.git repository.
+This repository was made based on the `https://github.com/kgotsosm/nature-web-scraper.git` repository.
