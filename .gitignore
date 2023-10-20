@@ -9,7 +9,7 @@
 !*.pickle
 !*.odp
 !*.yml
-!.md
+!*.md
 !Dockerfile
 
 
