@@ -1,0 +1,17 @@
+# ignore everything
+*
+# and don't ignore files ending with ".py"
+!*.py
+!*.txt
+!*.png
+!*.jpeg
+!*.pdf
+!*.pickle
+!*.odp
+!*.yml
+!.md
+!Dockerfile
+
+
+# don't ignore gitignore
+!.gitignore
